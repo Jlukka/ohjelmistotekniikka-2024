@@ -7,4 +7,4 @@
 
 ## Laskarit
 
-
+[Viikko 1](https://github.com/Jlukka/ohjelmistotekniikka-2024/blob/main/laskarit/viikko1.md)
