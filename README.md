@@ -8,3 +8,5 @@
 ## Laskarit
 
 [Viikko 1](https://github.com/Jlukka/ohjelmistotekniikka-2024/blob/main/laskarit/viikko1.md)
+
+[Viikko 3](https://github.com/Jlukka/ohjelmistotekniikka-2024/blob/main/laskarit/vikko3.md)
